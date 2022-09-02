@@ -1,0 +1,24 @@
+h1{
+    background-color: royalblue;
+    text-align: center;
+}
+
+.link{
+    font-size: 26px;
+    text-align: center;
+    list-style: none;
+    line-height: 46px;
+}
+
+.cake{
+    width: 442px;
+    height: 247px;
+
+}
+
+#center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+  }
